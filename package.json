@@ -27,13 +27,13 @@
     "url": "https://github.com/umasudhan/node-red-contrib-turfjs/issues"
   },
   "homepage": "https://github.com/umasudhan/node-red-contrib-turfjs#readme",
-  "dependencies": {
-    "turf": "^3.0.5"
-  },
   "maintainers": [
     "Uma Sudhan <umasudhan.p@gmail.com>"
   ],
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "@turf/turf": "^6.3.0"
   }
 }
